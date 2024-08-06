@@ -136,6 +136,15 @@ button {
 /* Setting Colors  */
 h1 {
     color: rgba(var(--white), 1);
+    text-shadow: 2px 2px 2px rgba(46, 43, 42, 0.3);
+}
+
+.hero-div p {
+    text-shadow: 2px 2px 2px rgba(46, 43, 42, 0.3);
+}
+
+.banner-div h2, .banner-div p {
+    text-shadow: 2px 2px 2px rgba(46, 43, 42, 0.3);
 }
 
 h2,
