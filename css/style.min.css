@@ -343,6 +343,10 @@ header {
     width: 2rem;
 }
 
+.brand-div p {
+    color: rgba(var(--black), 1);
+}
+
 /* Hero  */
 .hero-div p {
     color: rgba(var(--white), .8);
