@@ -1385,7 +1385,7 @@ header {
     }
 
     .up-div .pageup img {
-        width: 3.2rem;
+        width: 2.8rem;
     }
 
 
@@ -2893,12 +2893,12 @@ header {
 
     /* PageUp  */
     .up-div .pageup {
-        bottom: 4rem;
-        right: 4rem;
+        bottom: 3.2rem;
+        right: 3.2rem;
     }
 
     .up-div .pageup img {
-        width: 4rem;
+        width: 3.2rem;
     }
 }
 
