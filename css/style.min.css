@@ -504,7 +504,7 @@ header {
     }
 
     .menu_item a {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
 
     .menu-1-link {
@@ -2899,6 +2899,13 @@ header {
 
     .up-div .pageup img {
         width: 3.2rem;
+    }
+
+
+    /* Hover  */
+    .footer-right-col-1 a:hover,
+    .footer-right-col-2 a:hover {
+        text-decoration: underline;
     }
 }
 
